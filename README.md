@@ -23,6 +23,6 @@ Team Odyssey's Amazon HackOn'23 Submission
 4. Open the repository in your IDE and run the following commands.
 ```
     cd amazon-hackon-app
-    npm  i (If gives a conflict, try npm i -force)
+    npm  i (Note: If gives a conflict, try npm i -force)
     npm run start 
 ```
