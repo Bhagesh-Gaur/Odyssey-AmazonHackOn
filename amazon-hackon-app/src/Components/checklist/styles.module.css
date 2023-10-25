@@ -1,0 +1,76 @@
+.mainBg{
+    background-color:rgba(35, 47, 62, 0.99) ;
+
+    height: 100%;
+    padding: 20px;
+    padding-top: 100px !important;
+
+}
+.itemBox{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+
+}
+.hd{
+    margin-top: 10px;
+    padding-top: 20px ;
+    font-size: xx-large ;
+    color: black;
+}
+.itemArea{
+    padding-left: 10px;
+}
+.itemRow{
+    align-items: center;
+    display: flex;
+}
+.item{
+    font-size: large;
+    cursor: pointer;
+
+}
+.btn {
+    transition-duration: 0.4s;
+    background-color: #FEBD69; /* Green */
+  border: none;
+  color: white;
+  padding: 12px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 20px;
+  width: 40%;
+  height: 100%;
+  font-weight: 520;
+  }
+  .btnArea{
+    align-items: center;
+  }
+  .btn2 {
+    transition-duration: 0.4s;
+    background-color: #D8D8D8; /* Green */
+  border: none;
+  color: rgb(37, 37, 37);
+  padding: 6px 6px;
+  text-align: center;
+  text-decoration: none;
+    padding-left: 20px;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 20px;
+  width: 20%;
+  height: 100%;
+  font-weight: 520;
+  }
+  
+.btn:hover {
+    background-color: #febd699c; /* Green */
+    color: white;
+  }
+  .btn2:hover {
+    background-color: #5858589c; /* Green */
+    color: white;
+  }

@@ -1,0 +1,17 @@
+@import "@chatscope/chat-ui-kit-styles/themes/default/variables";
+
+// Here you can override variables from the imported file above. Check its source for a list of available variables
+$chat-container-message-input-bg-color : rgba(35, 47, 62, 0.97) !important ;
+$message-list-bg-color : rgba(35, 47, 62, 0.97) !important;
+$chat-container-message-input-border-top: 3px !important;
+$message-content-bg-color : #304258 !important;
+$message-content-color : white !important;
+$message-content-border-radius :  15px 15px 15px 15px !important;
+$message-list-typing-indicator-bg-color:rgba(35, 47, 62, 0.01) !important;
+$message-input-content-editor-wrapper-bg-color: white !important;
+$typing-indicator-text-color: white !important;
+$message-input-content-editor-bg-color:  rgba(255, 255, 255, 0.408) !important;
+$button-send-color: white !important;
+// $message-input-content-editor-disabled-bg-color : rgba(255, 255, 255, 0.778) !important;
+$main-container-border: 0 !important;
+$message-input-content-editor-bg-color: rgb(255, 255, 255) !important;
