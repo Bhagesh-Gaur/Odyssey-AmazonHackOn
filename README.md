@@ -1,5 +1,6 @@
-# Odyssey-AmazonHackOn
-Team Odyssey's Amazon HackOn'23 Submission
+# Goal based Product Recommender using Generative AI
+#### This project made Top 50 out of 48k participants in HackOn With Amazon - Season 3.
+(Team Odyssey's Amazon HackOn'23 Submission)
 ***
 # Have a look!
 👨‍💻 [Link to our Deployed Website](http://my-aws-bucket-odyssey.s3-website.ap-south-1.amazonaws.com/) | 📊 [Link to our Presentation](https://drive.google.com/file/d/1jUtZHEMSu2dRhEsAB5QbhNaMXW_PKSC1/view?usp=sharing) | 🎥 [Demo Video of our Prototype](https://www.youtube.com/watch?v=NCVNktowyQI)
